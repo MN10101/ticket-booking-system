@@ -97,6 +97,10 @@ Handles database operations for showtimes.
 
 This is a ticket booking system designed to manage bookings, customers, movies, showtimes, and seats in a cinema or theater setting.
 
+## Author
+
+- Mahmoud Najmeh
+
 ## Configuration
 
 ```properties
