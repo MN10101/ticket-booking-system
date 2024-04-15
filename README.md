@@ -1,25 +1,8 @@
 # Ticket Booking System
 
-This is a ticket booking system designed to manage bookings, customers, movies, showtimes, and seats in a cinema or theater setting.
-
-## Controllers
-
-### BookingController
-
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Technologies Used](#technologies-used)
-3. [Entity Classes](#entity-classes)
-4. [DAO (Data Access Object) Layer](#dao-data-access-object-layer)
-5. [Service Layer](#service-layer)
-6. [Controller Layer](#controller-layer)
-7. [Configuration](#configuration)
-8. [Author](#author)
-
-## Introduction
-
 The Ticket Booking System is designed to facilitate the process of booking tickets for movies. It allows customers to view available movies, showtimes, and seats, and book tickets accordingly. The system also supports functionalities for managing customer details, movie information, and showtimes.
+
+
 
 ## Technologies Used
 
